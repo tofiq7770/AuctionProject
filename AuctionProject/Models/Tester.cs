@@ -1,6 +1,6 @@
 ﻿namespace AuctionProject.Models
 {
-    public class Auction
+    public class Tester
     {
     }
 }
