@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8929A15E-3A48-46B8-8BE9-0305610EC894}|AuctionProject\\AuctionProject.csproj|c:\\users\\asus\\desktop\\auctionproject\\auctionproject\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8929A15E-3A48-46B8-8BE9-0305610EC894}|AuctionProject\\AuctionProject.csproj|solutionrelative:auctionproject\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8929A15E-3A48-46B8-8BE9-0305610EC894}|AuctionProject\\AuctionProject.csproj|c:\\users\\asus\\desktop\\auctionproject\\auctionproject\\models\\auction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8929A15E-3A48-46B8-8BE9-0305610EC894}|AuctionProject\\AuctionProject.csproj|solutionrelative:auctionproject\\models\\auction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "AuctionProject\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\Models\\Car.cs",
+              "RelativeToolTip": "AuctionProject\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T22:52:57.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Auction.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\Models\\Auction.cs",
+              "RelativeDocumentMoniker": "AuctionProject\\Models\\Auction.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\Models\\Auction.cs",
+              "RelativeToolTip": "AuctionProject\\Models\\Auction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T22:52:46.012Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
