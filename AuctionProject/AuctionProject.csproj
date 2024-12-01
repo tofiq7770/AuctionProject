@@ -19,10 +19,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="ViewModels\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <None Include="wwwroot\assets\css\animate.min.css" />
     <None Include="wwwroot\assets\css\bootstrap-icons.css" />
     <None Include="wwwroot\assets\css\bootstrap.min.css" />
