@@ -4,8 +4,8 @@ namespace AuctionProject.Models.Entities
 {
     public class Brand : BaseEntity
     {
-        public string BrandName { get; set; }
+        public string Name { get; set; }
+        public List<Model> Models { get; set; } = new List<Model>();
 
-        public List<Car> Cars { get; set; } = new List<Car>();
     }
 }
