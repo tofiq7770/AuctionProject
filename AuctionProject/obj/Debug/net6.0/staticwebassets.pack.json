@@ -1,0 +1,2765 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AuctionProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AuctionProject.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\dashboard\\circle.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard\\circle.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\dashboard\\circle.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard\\circle.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\dashboard\\img_1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard\\img_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\dashboard\\img_2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard\\img_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\dashboard\\img_3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard\\img_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\dashboard\\img_4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dashboard\\img_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\faces-clipart\\pic-1.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces-clipart\\pic-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\faces-clipart\\pic-2.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces-clipart\\pic-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\faces-clipart\\pic-3.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces-clipart\\pic-3.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\faces-clipart\\pic-4.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces-clipart\\pic-4.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\sprites\\blue.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\sprites\\blue.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\sprites\\dark.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\sprites\\dark.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\sprites\\flag.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\sprites\\flag.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\sprites\\green.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\sprites\\green.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\sprites\\jsgrid-icons.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\sprites\\jsgrid-icons.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\sprites\\red.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\sprites\\red.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\images\\sprites\\yellow.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\sprites\\yellow.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\js\\misc.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\misc.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\js\\todo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\todo.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\js\\todolist.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\todolist.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\_dashboard.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\_dashboard.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\_demo.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\_widget-grid.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\_widget-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\components\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\components\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\components\\_preview.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\components\\_preview.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\components\\_todo-list.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\components\\_todo-list.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\mixins\\_background.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\mixins\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\mixins\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\mixins\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\mixins\\_popovers.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\mixins\\_popovers.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\mixins\\_text.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\mixins\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\mixins\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\mixins\\_tooltips.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\vendors\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\css\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\css\\fonts\\bootstrap-icons.woff2@dd67030699838ea613ee6dbda90effa6",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\bootstrap-icons.woff2@dd67030699838ea613ee6dbda90effa6"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\css\\fonts\\bootstrap-icons.woff@dd67030699838ea613ee6dbda90effa6",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\bootstrap-icons.woff@dd67030699838ea613ee6dbda90effa6"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\css\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\fonts\\boxicons.svg@",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.svg@"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\fav-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\fav-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\footer-logo-white.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\footer-logo-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\footer-logo.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\footer-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\auction-card-author-img1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-card-author-img1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\auction-card-author-img10.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-card-author-img10.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\auction-card-author-img11.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-card-author-img11.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\auction-card-author-img12.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-card-author-img12.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\auction-card-author-img2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-card-author-img2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\auction-card-author-img3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-card-author-img3.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\auction-card-author-img4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-card-author-img4.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\auction-card-author-img5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-card-author-img5.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\auction-card-author-img6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-card-author-img6.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\auction-card-author-img7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-card-author-img7.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\auction-card-author-img8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-card-author-img8.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\auction-card-author-img9.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-card-author-img9.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\auction-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\auction-img10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-img10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\auction-img11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-img11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\auction-img12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-img12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\auction-img13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-img13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\auction-img14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-img14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\auction-img15.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-img15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\auction-img16.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-img16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\auction-img17.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-img17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\auction-img18.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-img18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\auction-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\auction-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\auction-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\auction-img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\auction-img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\auction-img7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\auction-img8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\auction-img9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-img9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\author-img1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\author-img1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\author-img2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\author-img2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\author-img3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\author-img3.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\author-img4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\author-img4.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\banner2-right-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\banner2-right-img.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\blog-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\blog-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\blog-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\blog-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\blog-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\blog-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\category-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\category-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\category-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\category-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\category-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\category-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\category-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\category-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\category-img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\category-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\category-img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\category-img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\category-img7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\category-img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\category-img8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\category-img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\category-img9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\category-img9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\company-logo-01.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\company-logo-01.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\company-logo-02.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\company-logo-02.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\company-logo-03.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\company-logo-03.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\company-logo-04.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\company-logo-04.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\company-logo-05.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\company-logo-05.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\company-logo-06.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\company-logo-06.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\home1-about-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\home1-about-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\home1-about-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\home1-about-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\home1-banne2-slider-bg1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\home1-banne2-slider-bg1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\home1-banne2-slider-bg2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\home1-banne2-slider-bg2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\home1-banne2-slider-bg3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\home1-banne2-slider-bg3.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\home1-banner-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\home1-banner-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\home1-banner2-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\home1-banner2-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\home1-category-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\home1-category-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\home1-footer-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\home1-footer-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\home1-footer-top-banner-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\home1-footer-top-banner-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\home1-footer-top-banner-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\home1-footer-top-banner-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\home1-upcoming-auction-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\home1-upcoming-auction-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\icon\\american-express.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\icon\\american-express.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\icon\\blog-batch-bg.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\icon\\blog-batch-bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\icon\\blog-batch-bg2.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\icon\\blog-batch-bg2.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\icon\\home1-banner2-batch-bg.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\icon\\home1-banner2-batch-bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\icon\\home1-banner2-pagi-bg.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\icon\\home1-banner2-pagi-bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\icon\\home1-process-bg-vector.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\icon\\home1-process-bg-vector.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\icon\\maestro.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\icon\\maestro.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\icon\\master-card.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\icon\\master-card.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\icon\\process-arrow1.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\icon\\process-arrow1.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\icon\\process-arrow2.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\icon\\process-arrow2.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\icon\\process-arrow3.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\icon\\process-arrow3.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\icon\\visa.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\icon\\visa.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home1\\upcoming-auction-banner-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\upcoming-auction-banner-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\auction-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\auction-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\auction-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\auction-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\auction-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\auction-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\auction-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\auction-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\auction-img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\auction-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\blog-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\blog-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\blog-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\blog-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\blog-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\blog-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\footer-top-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\footer-top-img.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\home2-banner-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\home2-banner-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\home2-banner-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\home2-banner-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\home2-banner-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\home2-banner-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\home2-banner-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\home2-banner-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\home2-banner2-content-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\home2-banner2-content-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\home2-banner2-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\home2-banner2-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\home2-banner2-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\home2-banner2-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\home2-banner2-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\home2-banner2-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\home2-banner3-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\home2-banner3-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\home2-footer-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\home2-footer-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\home2-footer-top-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\home2-footer-top-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\home2-popular-auction-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\home2-popular-auction-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\home2-popular-auction-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\home2-popular-auction-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\home2-popular-auction-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\home2-popular-auction-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\home2-popular-auction-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\home2-popular-auction-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\home2-popular-auction-img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\home2-popular-auction-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\home2-popular-auction-img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\home2-popular-auction-img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\home2-testimonial-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\home2-testimonial-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\home2-upcoming-section-banner-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\home2-upcoming-section-banner-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\icon\\audi-logo.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\icon\\audi-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\icon\\bentley-logo.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\icon\\bentley-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\icon\\bmw-logo.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\icon\\bmw-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\icon\\chevrolet-logo.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\icon\\chevrolet-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\icon\\ferrari-logo.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\icon\\ferrari-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\icon\\ford-logo.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\icon\\ford-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\icon\\honda-logo.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\icon\\honda-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\icon\\hyundai-logo.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\icon\\hyundai-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\icon\\lambor-logo.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\icon\\lambor-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\icon\\land-rover-logo.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\icon\\land-rover-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\icon\\lexus.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\icon\\lexus.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\icon\\mercedes-logo.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\icon\\mercedes-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\icon\\nissan-logo.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\icon\\nissan-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\icon\\tesla-logo.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\icon\\tesla-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\icon\\toyota-logo.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\icon\\toyota-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\testi-author-img1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\testi-author-img1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\testi-author-img2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\testi-author-img2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\testi-author-img3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\testi-author-img3.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\testi-author-img4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\testi-author-img4.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\testi-author-img5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\testi-author-img5.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\testi-author-img6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\testi-author-img6.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\upcoming-auction-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\upcoming-auction-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\upcoming-auction-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\upcoming-auction-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\upcoming-auction-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\upcoming-auction-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\upcoming-auction-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\upcoming-auction-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\upcoming-auction-img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\upcoming-auction-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\upcoming-auction-img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\upcoming-auction-img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home2\\upcoming-auction-img7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\upcoming-auction-img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\auction-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\auction-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\auction-img10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\auction-img10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\auction-img11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\auction-img11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\auction-img12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\auction-img12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\auction-img13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\auction-img13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\auction-img14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\auction-img14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\auction-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\auction-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\auction-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\auction-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\auction-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\auction-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\auction-img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\auction-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\auction-img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\auction-img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\auction-img7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\auction-img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\auction-img8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\auction-img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\auction-img9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\auction-img9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\author-img1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\author-img1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\author-img2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\author-img2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\author-img3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\author-img3.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\author-img4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\author-img4.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\banner-left-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\banner-left-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\banner-right-bottom-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\banner-right-bottom-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\banner-right-top-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\banner-right-top-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\banner2-img1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\banner2-img1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\banner2-img2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\banner2-img2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\banner3-people-img1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\banner3-people-img1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\banner3-people-img2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\banner3-people-img2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\blog-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\blog-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\blog-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\blog-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\blog-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\blog-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\blog-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\blog-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\blog-img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\blog-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\blog-img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\blog-img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\category-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\category-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\category-img10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\category-img10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\category-img11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\category-img11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\category-img12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\category-img12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\category-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\category-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\category-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\category-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\category-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\category-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\category-img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\category-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\category-img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\category-img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\category-img7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\category-img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\category-img8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\category-img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\category-img9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\category-img9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\home3-banner-section.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\home3-banner-section.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\home3-banner2-bg1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\home3-banner2-bg1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\home3-banner2-bg2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\home3-banner2-bg2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\home3-banner3-bg1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\home3-banner3-bg1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\home3-banner3-bg2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\home3-banner3-bg2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\home3-category-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\home3-category-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\home3-faq-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\home3-faq-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\icon\\banner-img-bg-vector.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\icon\\banner-img-bg-vector.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\icon\\circle-vector.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\icon\\circle-vector.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\icon\\partner-logo1.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\icon\\partner-logo1.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\icon\\partner-logo2.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\icon\\partner-logo2.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\icon\\partner-logo3.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\icon\\partner-logo3.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\icon\\partner-logo4.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\icon\\partner-logo4.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\icon\\partner-logo5.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\icon\\partner-logo5.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home3\\testimonial-grp-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home3\\testimonial-grp-img.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\auction-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\auction-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\auction-img10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\auction-img10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\auction-img11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\auction-img11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\auction-img12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\auction-img12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\auction-img13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\auction-img13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\auction-img14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\auction-img14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\auction-img15.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\auction-img15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\auction-img16.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\auction-img16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\auction-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\auction-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\auction-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\auction-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\auction-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\auction-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\auction-img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\auction-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\auction-img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\auction-img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\auction-img7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\auction-img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\auction-img8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\auction-img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\auction-img9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\auction-img9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\blog-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\blog-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\blog-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\blog-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\blog-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\blog-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\blog-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\blog-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\blog-img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\blog-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\blog-img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\blog-img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\blog-img7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\blog-img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\blog-img8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\blog-img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\blog-img9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\blog-img9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\category-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\category-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\category-img10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\category-img10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\category-img11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\category-img11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\category-img12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\category-img12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\category-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\category-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\category-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\category-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\category-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\category-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\category-img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\category-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\category-img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\category-img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\category-img7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\category-img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\category-img8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\category-img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\category-img9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\category-img9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\home4-auction-close-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\home4-auction-close-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\home4-banner-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\home4-banner-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\home4-banner-img1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\home4-banner-img1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\home4-banner-img2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\home4-banner-img2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\home4-banner-img3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\home4-banner-img3.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\home4-footer-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\home4-footer-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\home4-live-auction-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\home4-live-auction-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\icon\\banner-arrow-vector.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\icon\\banner-arrow-vector.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\icon\\banner-vector1.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\icon\\banner-vector1.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\icon\\home4-category-icon1.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\icon\\home4-category-icon1.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\icon\\home4-category-icon10.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\icon\\home4-category-icon10.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\icon\\home4-category-icon11.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\icon\\home4-category-icon11.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\icon\\home4-category-icon12.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\icon\\home4-category-icon12.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\icon\\home4-category-icon2.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\icon\\home4-category-icon2.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\icon\\home4-category-icon3.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\icon\\home4-category-icon3.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\icon\\home4-category-icon4.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\icon\\home4-category-icon4.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\icon\\home4-category-icon5.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\icon\\home4-category-icon5.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\icon\\home4-category-icon6.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\icon\\home4-category-icon6.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\icon\\home4-category-icon7.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\icon\\home4-category-icon7.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\icon\\home4-category-icon8.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\icon\\home4-category-icon8.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\icon\\home4-category-icon9.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\icon\\home4-category-icon9.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\offer-left-banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\offer-left-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\offer-single-banner-bg1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\offer-single-banner-bg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\offer-single-banner-bg2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\offer-single-banner-bg2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\offer-single-banner-bg3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\offer-single-banner-bg3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\offer-single-banner-bg4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\offer-single-banner-bg4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\testimonial-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\testimonial-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home4\\testimonial-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home4\\testimonial-img.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\auction-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\auction-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\auction-img10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\auction-img10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\auction-img11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\auction-img11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\auction-img12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\auction-img12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\auction-img13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\auction-img13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\auction-img14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\auction-img14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\auction-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\auction-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\auction-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\auction-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\auction-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\auction-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\auction-img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\auction-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\auction-img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\auction-img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\auction-img7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\auction-img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\auction-img8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\auction-img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\auction-img9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\auction-img9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\blog-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\blog-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\blog-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\blog-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\blog-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\blog-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\blog-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\blog-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\blog-img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\blog-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\blog-img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\blog-img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\blog-img7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\blog-img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\blog-img8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\blog-img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\blog-img9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\blog-img9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\category-img1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\category-img1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\category-img10.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\category-img10.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\category-img11.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\category-img11.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\category-img12.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\category-img12.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\category-img13.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\category-img13.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\category-img14.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\category-img14.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\category-img15.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\category-img15.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\category-img2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\category-img2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\category-img3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\category-img3.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\category-img4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\category-img4.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\category-img5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\category-img5.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\category-img6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\category-img6.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\category-img7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\category-img7.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\category-img8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\category-img8.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\category-img9.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\category-img9.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\home5-about-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\home5-about-img.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\home5-banner-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\home5-banner-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\home5-banner-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\home5-banner-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\home5-banner-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\home5-banner-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\home5-banner2-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\home5-banner2-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\home5-banner2-img1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\home5-banner2-img1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\home5-banner2-img2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\home5-banner2-img2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\home5-banner2-img3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\home5-banner2-img3.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\home5-category-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\home5-category-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\home5-footer-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\home5-footer-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\home5-testimonial-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\home5-testimonial-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\home5-upcomig-auction-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\home5-upcomig-auction-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home5\\icon\\home5-banner-vector.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home5\\icon\\home5-banner-vector.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\auction-banner-card-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\auction-banner-card-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\auction-banner-card-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\auction-banner-card-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\auction-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\auction-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\auction-img10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\auction-img10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\auction-img11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\auction-img11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\auction-img12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\auction-img12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\auction-img13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\auction-img13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\auction-img14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\auction-img14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\auction-img15.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\auction-img15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\auction-img16.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\auction-img16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\auction-img17.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\auction-img17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\auction-img18.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\auction-img18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\auction-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\auction-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\auction-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\auction-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\auction-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\auction-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\auction-img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\auction-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\auction-img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\auction-img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\auction-img7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\auction-img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\auction-img8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\auction-img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\auction-img9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\auction-img9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\blog-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\blog-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\blog-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\blog-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\blog-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\blog-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\blog-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\blog-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\blog-img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\blog-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\category-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\category-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\category-img10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\category-img10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\category-img11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\category-img11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\category-img12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\category-img12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\category-img13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\category-img13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\category-img14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\category-img14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\category-img15.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\category-img15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\category-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\category-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\category-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\category-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\category-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\category-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\category-img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\category-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\category-img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\category-img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\category-img7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\category-img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\category-img8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\category-img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\category-img9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\category-img9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\feature-banner-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\feature-banner-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\feature-banner-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\feature-banner-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\home6-banner-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\home6-banner-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\home6-banner-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\home6-banner-img.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\home6-banner2-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\home6-banner2-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\home6-banner2-img1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\home6-banner2-img1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\home6-banner2-img2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\home6-banner2-img2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\home6-banner2-img3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\home6-banner2-img3.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\home6-category-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\home6-category-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\home6-footer-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\home6-footer-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\home6-process-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\home6-process-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\home6-testimonial-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\home6-testimonial-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\home6-testimonial-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\home6-testimonial-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\icon\\circle-vector.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\icon\\circle-vector.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\partner-logo1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\partner-logo1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\partner-logo2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\partner-logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\partner-logo3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\partner-logo3.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\partner-logo4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\partner-logo4.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\partner-logo5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\partner-logo5.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\partner-logo6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\partner-logo6.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home6\\process-video-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home6\\process-video-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\auction-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\auction-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\auction-win-card-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\auction-win-card-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\auction-win-img1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\auction-win-img1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\auction-win-img10.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\auction-win-img10.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\auction-win-img11.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\auction-win-img11.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\auction-win-img12.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\auction-win-img12.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\auction-win-img2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\auction-win-img2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\auction-win-img3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\auction-win-img3.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\auction-win-img4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\auction-win-img4.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\auction-win-img5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\auction-win-img5.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\auction-win-img6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\auction-win-img6.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\auction-win-img7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\auction-win-img7.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\auction-win-img8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\auction-win-img8.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\auction-win-img9.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\auction-win-img9.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\blog-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\blog-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\blog-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\blog-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\blog-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\blog-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\blog-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\blog-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\blog-img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\blog-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\blog-img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\blog-img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\blog-img7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\blog-img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\blog-img8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\blog-img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\blog-img9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\blog-img9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\home7-auction-win-section-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\home7-auction-win-section-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\home7-banner-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\home7-banner-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\home7-banner-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\home7-banner-img.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\home7-banner2-bg1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\home7-banner2-bg1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\home7-banner2-bg2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\home7-banner2-bg2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\home7-banner2-bg3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\home7-banner2-bg3.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\home7-banner2-bg4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\home7-banner2-bg4.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\home7-category-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\home7-category-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\home7-category-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\home7-category-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\home7-category-img10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\home7-category-img10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\home7-category-img11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\home7-category-img11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\home7-category-img12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\home7-category-img12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\home7-category-img13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\home7-category-img13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\home7-category-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\home7-category-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\home7-category-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\home7-category-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\home7-category-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\home7-category-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\home7-category-img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\home7-category-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\home7-category-img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\home7-category-img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\home7-category-img7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\home7-category-img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\home7-category-img8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\home7-category-img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\home7-category-img9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\home7-category-img9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\home7-feature-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\home7-feature-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\home7-footer-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\home7-footer-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\home7-process-video-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\home7-process-video-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\icon\\home7-category-icon1.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\icon\\home7-category-icon1.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\icon\\home7-category-icon10.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\icon\\home7-category-icon10.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\icon\\home7-category-icon11.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\icon\\home7-category-icon11.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\icon\\home7-category-icon12.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\icon\\home7-category-icon12.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\icon\\home7-category-icon13.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\icon\\home7-category-icon13.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\icon\\home7-category-icon2.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\icon\\home7-category-icon2.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\icon\\home7-category-icon3.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\icon\\home7-category-icon3.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\icon\\home7-category-icon4.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\icon\\home7-category-icon4.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\icon\\home7-category-icon5.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\icon\\home7-category-icon5.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\icon\\home7-category-icon6.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\icon\\home7-category-icon6.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\icon\\home7-category-icon7.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\icon\\home7-category-icon7.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\icon\\home7-category-icon8.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\icon\\home7-category-icon8.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\home7\\icon\\home7-category-icon9.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home7\\icon\\home7-category-icon9.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\auction-details-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\auction-details-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\auction-details-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\auction-details-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\auction-details-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\auction-details-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\auction-details-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\auction-details-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\auction-details-img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\auction-details-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\auction-details-video-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\auction-details-video-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\auction-details2-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\auction-details2-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\auction-details2-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\auction-details2-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\auction-details2-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\auction-details2-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\auction-details2-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\auction-details2-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\auction-details2-img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\auction-details2-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\blog-details-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\blog-details-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\blog-details-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\blog-details-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\blog-details-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\blog-details-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\blog-details-thumb-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\blog-details-thumb-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\blog-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\blog-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\blog-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\blog-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\blog-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\blog-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\blog-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\blog-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\blog-img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\blog-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\blog-img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\blog-img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\blog-img7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\blog-img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\blog-meta-author-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\blog-meta-author-img.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\blog-st-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\blog-st-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\blog-st-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\blog-st-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\blog-st-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\blog-st-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\breadcrumb-bg2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\breadcrumb-bg2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\breadcrumb-bg3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\breadcrumb-bg3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\breadcrumb-bg4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\breadcrumb-bg4.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\breadcrumb-bg6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\breadcrumb-bg6.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\breadcrumb-bg7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\breadcrumb-bg7.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\category-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\category-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\category-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\category-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\category-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\category-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\category-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\category-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\category-img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\category-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\category-img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\category-img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\comment-author-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\comment-author-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\comment-author-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\comment-author-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\comment-author-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\comment-author-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\comment-author-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\comment-author-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\comment-author-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\comment-author-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\dashbaord-edit-profile-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\dashbaord-edit-profile-img.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\dashboard-payment-card-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\dashboard-payment-card-img.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\dashboard-profile-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\dashboard-profile-img.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\error-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\error-img.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\highest-bidding-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\highest-bidding-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\highest-bidding-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\highest-bidding-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\highest-bidding-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\highest-bidding-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\how-to-sell-video-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\how-to-sell-video-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\icon\\american-express.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\icon\\american-express.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\icon\\arrow.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\icon\\arrow.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\icon\\breadcrumb-arrow-white.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\icon\\breadcrumb-arrow-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\icon\\breadcrumb-list-before-vector.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\icon\\breadcrumb-list-before-vector.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\icon\\breadcrumb-list-start-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\icon\\breadcrumb-list-start-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\icon\\checkbox-check-dark-green.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\icon\\checkbox-check-dark-green.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\icon\\checkbox-check.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\icon\\checkbox-check.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\icon\\dashboard-counter-card-vector.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\icon\\dashboard-counter-card-vector.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\icon\\discover.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\icon\\discover.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\icon\\mastercard.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\icon\\mastercard.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\icon\\paypal.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\icon\\paypal.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\icon\\skrill.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\icon\\skrill.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\icon\\stripe.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\icon\\stripe.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\icon\\visa.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\icon\\visa.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\payment-img1.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\payment-img1.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\payment-img2.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\payment-img2.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\payment-img3.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\payment-img3.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\payment-img4.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\payment-img4.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\payment-img5.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\payment-img5.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\payment-img6.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\payment-img6.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\payment-img7.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\payment-img7.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\popular-post-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\popular-post-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\popular-post-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\popular-post-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\popular-post-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\popular-post-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\store-card-cover-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\store-card-cover-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\store-card-cover-img10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\store-card-cover-img10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\store-card-cover-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\store-card-cover-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\store-card-cover-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\store-card-cover-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\store-card-cover-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\store-card-cover-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\store-card-cover-img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\store-card-cover-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\store-card-cover-img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\store-card-cover-img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\store-card-cover-img7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\store-card-cover-img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\store-card-cover-img8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\store-card-cover-img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\store-card-cover-img9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\store-card-cover-img9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\store-details-profile-cover-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\store-details-profile-cover-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\store-details-profile-img1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\store-details-profile-img1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\store-profile-img1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\store-profile-img1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\store-profile-img10.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\store-profile-img10.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\store-profile-img2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\store-profile-img2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\store-profile-img3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\store-profile-img3.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\store-profile-img4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\store-profile-img4.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\store-profile-img5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\store-profile-img5.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\store-profile-img6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\store-profile-img6.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\store-profile-img7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\store-profile-img7.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\store-profile-img8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\store-profile-img8.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\inner-pages\\store-profile-img9.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-pages\\store-profile-img9.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\logo-white.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\js\\jquery-3.7.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.7.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\js\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.fancybox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\js\\jquery.marquee.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.marquee.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\js\\range-slider.js",
+      "PackagePath": "staticwebassets\\assets\\js\\range-slider.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\js\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\wwwroot\\assets\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\wow.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.AuctionProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.AuctionProject.props",
+      "PackagePath": "build\\AuctionProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AuctionProject.props",
+      "PackagePath": "buildMultiTargeting\\AuctionProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.AuctionProject.props",
+      "PackagePath": "buildTransitive\\AuctionProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
