@@ -6,6 +6,6 @@ namespace AuctionProject.Models.Entities
     {
         public string ColorName { get; set; }
 
-        public List<Car> Cars { get; set; } = new List<Car>();
+        public List<Car> Cars { get; set; }
     }
 }

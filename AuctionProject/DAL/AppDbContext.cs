@@ -10,6 +10,10 @@ namespace AuctionProject.DAL
         {
 
         }
+
+
+
+
         public DbSet<Auction> Auctions { get; set; }
         public DbSet<Bid> Bids { get; set; }
         public DbSet<Brand> Brands { get; set; }
@@ -17,6 +21,7 @@ namespace AuctionProject.DAL
         public DbSet<Color> Colors { get; set; }
         public DbSet<Model> Models { get; set; }
         public DbSet<Order> Orders { get; set; }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
 

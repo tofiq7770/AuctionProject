@@ -4,8 +4,6 @@ namespace AuctionProject.Models.Entities
 {
     public class Order : BaseEntity
     {
-        public string UserId { get; set; }               // Foreign key to the User who placed the order
-
         public DateTime OrderDate { get; set; }          // The date and time when the order was placed
 
         public decimal TotalAmount { get; set; }         // The total amount for the order
@@ -25,6 +23,7 @@ namespace AuctionProject.Models.Entities
         public DateTime? OrderCompleted { get; set; }    // Date when the order was completed (nullable)
 
         // Navigation property to the user (Optional)
-        public AppUser User { get; set; }
+        public string AppUserId { get; set; } // Foreign key to the User who placed the order
+        public AppUser AppUser { get; set; }
     }
 }
