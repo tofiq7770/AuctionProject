@@ -4,7 +4,7 @@ namespace AuctionProject.Models.Entities
 {
     public class Model : BaseEntity
     {
-        public string Name { get; set; } = string.Empty;
+        public string Name { get; set; }
 
         public int BrandId { get; set; }
         public Brand? Brand { get; set; }

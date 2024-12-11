@@ -7,6 +7,7 @@ namespace AuctionProject.Models.Entities
     {
         public int Year { get; set; }
         public int Mileage { get; set; }
+        public string Vin { get; set; }
         public string Condition { get; set; }
         public decimal StartingBid { get; set; }
         public string Description { get; set; }
