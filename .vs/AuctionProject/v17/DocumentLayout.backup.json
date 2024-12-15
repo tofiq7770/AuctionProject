@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\",
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\auction-backend\\AuctionProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8929A15E-3A48-46B8-8BE9-0305610EC894}|AuctionProject\\AuctionProject.csproj|c:\\users\\asus\\desktop\\auctionproject\\auctionproject\\models\\entities\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8929A15E-3A48-46B8-8BE9-0305610EC894}|AuctionProject\\AuctionProject.csproj|solutionrelative:auctionproject\\models\\entities\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8929A15E-3A48-46B8-8BE9-0305610EC894}|AuctionProject\\AuctionProject.csproj|c:\\users\\asus\\desktop\\auction-backend\\auctionproject\\auctionproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8929A15E-3A48-46B8-8BE9-0305610EC894}|AuctionProject\\AuctionProject.csproj|solutionrelative:auctionproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\Models\\Car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuctionProject\\Models\\Car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8929A15E-3A48-46B8-8BE9-0305610EC894}|AuctionProject\\AuctionProject.csproj|c:\\users\\asus\\desktop\\auction-backend\\auctionproject\\auctionproject\\viewcomponents\\headerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8929A15E-3A48-46B8-8BE9-0305610EC894}|AuctionProject\\AuctionProject.csproj|solutionrelative:auctionproject\\viewcomponents\\headerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\Models\\Auction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuctionProject\\Models\\Auction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8929A15E-3A48-46B8-8BE9-0305610EC894}|AuctionProject\\AuctionProject.csproj|c:\\users\\asus\\desktop\\auction-backend\\auctionproject\\auctionproject\\viewcomponents\\footerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8929A15E-3A48-46B8-8BE9-0305610EC894}|AuctionProject\\AuctionProject.csproj|solutionrelative:auctionproject\\viewcomponents\\footerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8929A15E-3A48-46B8-8BE9-0305610EC894}|AuctionProject\\AuctionProject.csproj|c:\\users\\asus\\desktop\\auction-backend\\auctionproject\\auctionproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8929A15E-3A48-46B8-8BE9-0305610EC894}|AuctionProject\\AuctionProject.csproj|solutionrelative:auctionproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8929A15E-3A48-46B8-8BE9-0305610EC894}|AuctionProject\\AuctionProject.csproj|c:\\users\\asus\\desktop\\auction-backend\\auctionproject\\auctionproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8929A15E-3A48-46B8-8BE9-0305610EC894}|AuctionProject\\AuctionProject.csproj|solutionrelative:auctionproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Bid.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\Models\\Entities\\Bid.cs",
-              "RelativeDocumentMoniker": "AuctionProject\\Models\\Entities\\Bid.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\Models\\Entities\\Bid.cs*",
-              "RelativeToolTip": "AuctionProject\\Models\\Entities\\Bid.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "HeaderViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\auction-backend\\AuctionProject\\AuctionProject\\ViewComponents\\HeaderViewComponent.cs",
+              "RelativeDocumentMoniker": "AuctionProject\\ViewComponents\\HeaderViewComponent.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\auction-backend\\AuctionProject\\AuctionProject\\ViewComponents\\HeaderViewComponent.cs",
+              "RelativeToolTip": "AuctionProject\\ViewComponents\\HeaderViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T14:10:57.345Z",
+              "WhenOpened": "2024-12-15T23:13:55.546Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\Models\\Car.cs",
-              "RelativeDocumentMoniker": "AuctionProject\\Models\\Car.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\Models\\Car.cs",
-              "RelativeToolTip": "AuctionProject\\Models\\Car.cs",
+              "DocumentIndex": 2,
+              "Title": "FooterViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\auction-backend\\AuctionProject\\AuctionProject\\ViewComponents\\FooterViewComponent.cs",
+              "RelativeDocumentMoniker": "AuctionProject\\ViewComponents\\FooterViewComponent.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\auction-backend\\AuctionProject\\AuctionProject\\ViewComponents\\FooterViewComponent.cs",
+              "RelativeToolTip": "AuctionProject\\ViewComponents\\FooterViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T22:52:57.475Z"
+              "WhenOpened": "2024-12-15T23:06:48.162Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Auction.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\Models\\Auction.cs",
-              "RelativeDocumentMoniker": "AuctionProject\\Models\\Auction.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\AuctionProject\\AuctionProject\\Models\\Auction.cs",
-              "RelativeToolTip": "AuctionProject\\Models\\Auction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\auction-backend\\AuctionProject\\AuctionProject\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AuctionProject\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\auction-backend\\AuctionProject\\AuctionProject\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AuctionProject\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T23:03:37.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\auction-backend\\AuctionProject\\AuctionProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AuctionProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\auction-backend\\AuctionProject\\AuctionProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AuctionProject\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T22:52:46.012Z"
+              "WhenOpened": "2024-12-15T22:39:18.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\auction-backend\\AuctionProject\\AuctionProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AuctionProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\auction-backend\\AuctionProject\\AuctionProject\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "AuctionProject\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T22:38:23.696Z",
+              "EditorCaption": ""
             }
           ]
         }
