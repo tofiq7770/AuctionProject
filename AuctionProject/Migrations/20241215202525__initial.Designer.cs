@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AuctionProject.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20241208142437__initial")]
+    [Migration("20241215202525__initial")]
     partial class _initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -32,15 +32,11 @@ namespace AuctionProject.Migrations
                     b.Property<int>("AccessFailedCount")
                         .HasColumnType("int");
 
-                    b.Property<string>("Address")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<string>("ConcurrencyStamp")
                         .IsConcurrencyToken()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<DateTime>("DateOfBirth")
+                    b.Property<DateTime>("DateCreated")
                         .HasColumnType("datetime2");
 
                     b.Property<string>("Email")
@@ -77,10 +73,6 @@ namespace AuctionProject.Migrations
                     b.Property<bool>("PhoneNumberConfirmed")
                         .HasColumnType("bit");
 
-                    b.Property<string>("ProfilePictureUrl")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<string>("SecurityStamp")
                         .HasColumnType("nvarchar(max)");
 
@@ -112,31 +104,42 @@ namespace AuctionProject.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
-                    b.Property<int>("CarId")
+                    b.Property<int>("CarID")
                         .HasColumnType("int");
 
                     b.Property<DateTime>("CreatedTime")
                         .HasColumnType("datetime2");
 
-                    b.Property<DateTime>("EndDateTime")
+                    b.Property<decimal>("CurrentHighestBid")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.Property<DateTime>("EndTime")
                         .HasColumnType("datetime2");
 
                     b.Property<bool>("SoftDelete")
                         .HasColumnType("bit");
 
-                    b.Property<DateTime>("StartDateTime")
+                    b.Property<DateTime>("StartTime")
                         .HasColumnType("datetime2");
-
-                    b.Property<decimal>("StartingPrice")
-                        .HasColumnType("decimal(18,2)");
 
                     b.Property<string>("Status")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("StripePaymentId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("WinnerID")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
                     b.HasKey("Id");
 
-                    b.HasIndex("CarId");
+                    b.HasIndex("CarID")
+                        .IsUnique();
+
+                    b.HasIndex("WinnerID");
 
                     b.ToTable("Auctions");
                 });
@@ -149,11 +152,7 @@ namespace AuctionProject.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
-                    b.Property<string>("AppUserId")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(450)");
-
-                    b.Property<int>("AuctionId")
+                    b.Property<int>("AuctionID")
                         .HasColumnType("int");
 
                     b.Property<decimal>("BidAmount")
@@ -161,6 +160,10 @@ namespace AuctionProject.Migrations
 
                     b.Property<DateTime>("BidTime")
                         .HasColumnType("datetime2");
+
+                    b.Property<string>("BidderID")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<DateTime>("CreatedTime")
                         .HasColumnType("datetime2");
@@ -170,9 +173,9 @@ namespace AuctionProject.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("AppUserId");
+                    b.HasIndex("AuctionID");
 
-                    b.HasIndex("AuctionId");
+                    b.HasIndex("BidderID");
 
                     b.ToTable("Bids");
                 });
@@ -185,12 +188,12 @@ namespace AuctionProject.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
-                    b.Property<DateTime>("CreatedTime")
-                        .HasColumnType("datetime2");
-
-                    b.Property<string>("Name")
+                    b.Property<string>("BrandName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("CreatedTime")
+                        .HasColumnType("datetime2");
 
                     b.Property<bool>("SoftDelete")
                         .HasColumnType("bit");
@@ -208,10 +211,126 @@ namespace AuctionProject.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
-                    b.Property<int>("ColorId")
+                    b.Property<decimal>("BasePrice")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.Property<int>("ColorID")
                         .HasColumnType("int");
 
                     b.Property<string>("Condition")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("CreatedTime")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime>("DateAdded")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("ModelID")
+                        .HasColumnType("int");
+
+                    b.Property<string>("SellerID")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<bool>("SoftDelete")
+                        .HasColumnType("bit");
+
+                    b.Property<int>("Year")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ColorID");
+
+                    b.HasIndex("ModelID");
+
+                    b.HasIndex("SellerID");
+
+                    b.ToTable("Cars");
+                });
+
+            modelBuilder.Entity("AuctionProject.Models.Entities.CarCategory", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+
+                    b.Property<int>("CarCategoryID")
+                        .HasColumnType("int");
+
+                    b.Property<int>("CarID")
+                        .HasColumnType("int");
+
+                    b.Property<int>("CategoryID")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("CreatedTime")
+                        .HasColumnType("datetime2");
+
+                    b.Property<bool>("SoftDelete")
+                        .HasColumnType("bit");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("CarID");
+
+                    b.HasIndex("CategoryID");
+
+                    b.ToTable("CarCategories");
+                });
+
+            modelBuilder.Entity("AuctionProject.Models.Entities.CarImage", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+
+                    b.Property<int>("CarID")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("CreatedTime")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ImageUrl")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("SoftDelete")
+                        .HasColumnType("bit");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("CarID");
+
+                    b.ToTable("CarImages");
+                });
+
+            modelBuilder.Entity("AuctionProject.Models.Entities.Category", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+
+                    b.Property<int>("CategoryID")
+                        .HasColumnType("int");
+
+                    b.Property<string>("CategoryName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -222,35 +341,12 @@ namespace AuctionProject.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("ImageURL")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("Mileage")
-                        .HasColumnType("int");
-
-                    b.Property<int>("ModelId")
-                        .HasColumnType("int");
-
-                    b.Property<decimal>("ReservePrice")
-                        .HasColumnType("decimal(18,2)");
-
                     b.Property<bool>("SoftDelete")
                         .HasColumnType("bit");
 
-                    b.Property<decimal>("StartingBid")
-                        .HasColumnType("decimal(18,2)");
-
-                    b.Property<int>("Year")
-                        .HasColumnType("int");
-
                     b.HasKey("Id");
 
-                    b.HasIndex("ColorId");
-
-                    b.HasIndex("ModelId");
-
-                    b.ToTable("Cars");
+                    b.ToTable("Category");
                 });
 
             modelBuilder.Entity("AuctionProject.Models.Entities.Color", b =>
@@ -284,13 +380,13 @@ namespace AuctionProject.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
-                    b.Property<int>("BrandId")
+                    b.Property<int>("BrandID")
                         .HasColumnType("int");
 
                     b.Property<DateTime>("CreatedTime")
                         .HasColumnType("datetime2");
 
-                    b.Property<string>("Name")
+                    b.Property<string>("ModelName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -299,7 +395,7 @@ namespace AuctionProject.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("BrandId");
+                    b.HasIndex("BrandID");
 
                     b.ToTable("Models");
                 });
@@ -312,39 +408,20 @@ namespace AuctionProject.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
-                    b.Property<string>("AppUserId")
+                    b.Property<int>("AuctionID")
+                        .HasColumnType("int");
+
+                    b.Property<string>("BuyerID")
                         .IsRequired()
                         .HasColumnType("nvarchar(450)");
 
                     b.Property<DateTime>("CreatedTime")
                         .HasColumnType("datetime2");
 
-                    b.Property<DateTime?>("EstimatedDeliveryDate")
-                        .HasColumnType("datetime2");
-
-                    b.Property<DateTime?>("OrderCompleted")
-                        .HasColumnType("datetime2");
-
                     b.Property<DateTime>("OrderDate")
                         .HasColumnType("datetime2");
 
-                    b.Property<string>("OrderStatus")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("PaymentMethod")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<string>("PaymentStatus")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("ShippingAddress")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("ShippingMethod")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -356,7 +433,10 @@ namespace AuctionProject.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("AppUserId");
+                    b.HasIndex("AuctionID")
+                        .IsUnique();
+
+                    b.HasIndex("BuyerID");
 
                     b.ToTable("Orders");
                 });
@@ -497,57 +577,103 @@ namespace AuctionProject.Migrations
             modelBuilder.Entity("AuctionProject.Models.Entities.Auction", b =>
                 {
                     b.HasOne("AuctionProject.Models.Entities.Car", "Car")
-                        .WithMany()
-                        .HasForeignKey("CarId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .WithOne("Auction")
+                        .HasForeignKey("AuctionProject.Models.Entities.Auction", "CarID")
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
+
+                    b.HasOne("AuctionProject.Models.Entities.AppUser", "Buyer")
+                        .WithMany()
+                        .HasForeignKey("WinnerID")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.Navigation("Buyer");
 
                     b.Navigation("Car");
                 });
 
             modelBuilder.Entity("AuctionProject.Models.Entities.Bid", b =>
                 {
-                    b.HasOne("AuctionProject.Models.Entities.AppUser", "AppUser")
-                        .WithMany("Bids")
-                        .HasForeignKey("AppUserId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
                     b.HasOne("AuctionProject.Models.Entities.Auction", "Auction")
                         .WithMany("Bids")
-                        .HasForeignKey("AuctionId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .HasForeignKey("AuctionID")
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
-                    b.Navigation("AppUser");
+                    b.HasOne("AuctionProject.Models.Entities.AppUser", "Buyer")
+                        .WithMany("Bids")
+                        .HasForeignKey("BidderID")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
 
                     b.Navigation("Auction");
+
+                    b.Navigation("Buyer");
                 });
 
             modelBuilder.Entity("AuctionProject.Models.Entities.Car", b =>
                 {
                     b.HasOne("AuctionProject.Models.Entities.Color", "Color")
                         .WithMany("Cars")
-                        .HasForeignKey("ColorId")
+                        .HasForeignKey("ColorID")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.HasOne("AuctionProject.Models.Entities.Model", "Model")
                         .WithMany("Cars")
-                        .HasForeignKey("ModelId")
+                        .HasForeignKey("ModelID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("AuctionProject.Models.Entities.AppUser", "Seller")
+                        .WithMany("Cars")
+                        .HasForeignKey("SellerID")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.Navigation("Color");
 
                     b.Navigation("Model");
+
+                    b.Navigation("Seller");
+                });
+
+            modelBuilder.Entity("AuctionProject.Models.Entities.CarCategory", b =>
+                {
+                    b.HasOne("AuctionProject.Models.Entities.Car", "Car")
+                        .WithMany("CarCategories")
+                        .HasForeignKey("CarID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("AuctionProject.Models.Entities.Category", "Category")
+                        .WithMany("CarCategories")
+                        .HasForeignKey("CategoryID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Car");
+
+                    b.Navigation("Category");
+                });
+
+            modelBuilder.Entity("AuctionProject.Models.Entities.CarImage", b =>
+                {
+                    b.HasOne("AuctionProject.Models.Entities.Car", "Car")
+                        .WithMany("Images")
+                        .HasForeignKey("CarID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Car");
                 });
 
             modelBuilder.Entity("AuctionProject.Models.Entities.Model", b =>
                 {
                     b.HasOne("AuctionProject.Models.Entities.Brand", "Brand")
                         .WithMany("Models")
-                        .HasForeignKey("BrandId")
+                        .HasForeignKey("BrandID")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
@@ -556,13 +682,21 @@ namespace AuctionProject.Migrations
 
             modelBuilder.Entity("AuctionProject.Models.Entities.Order", b =>
                 {
-                    b.HasOne("AuctionProject.Models.Entities.AppUser", "AppUser")
+                    b.HasOne("AuctionProject.Models.Entities.Auction", "Auction")
+                        .WithOne("Order")
+                        .HasForeignKey("AuctionProject.Models.Entities.Order", "AuctionID")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.HasOne("AuctionProject.Models.Entities.AppUser", "Buyer")
                         .WithMany("Orders")
-                        .HasForeignKey("AppUserId")
+                        .HasForeignKey("BuyerID")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("AppUser");
+                    b.Navigation("Auction");
+
+                    b.Navigation("Buyer");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -620,17 +754,37 @@ namespace AuctionProject.Migrations
                 {
                     b.Navigation("Bids");
 
+                    b.Navigation("Cars");
+
                     b.Navigation("Orders");
                 });
 
             modelBuilder.Entity("AuctionProject.Models.Entities.Auction", b =>
                 {
                     b.Navigation("Bids");
+
+                    b.Navigation("Order")
+                        .IsRequired();
                 });
 
             modelBuilder.Entity("AuctionProject.Models.Entities.Brand", b =>
                 {
                     b.Navigation("Models");
+                });
+
+            modelBuilder.Entity("AuctionProject.Models.Entities.Car", b =>
+                {
+                    b.Navigation("Auction")
+                        .IsRequired();
+
+                    b.Navigation("CarCategories");
+
+                    b.Navigation("Images");
+                });
+
+            modelBuilder.Entity("AuctionProject.Models.Entities.Category", b =>
+                {
+                    b.Navigation("CarCategories");
                 });
 
             modelBuilder.Entity("AuctionProject.Models.Entities.Color", b =>

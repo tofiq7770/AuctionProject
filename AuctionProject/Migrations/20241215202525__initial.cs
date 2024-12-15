@@ -29,9 +29,7 @@ namespace AuctionProject.Migrations
                 {
                     Id = table.Column<string>(type: "nvarchar(450)", nullable: false),
                     FullName = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    DateOfBirth = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    Address = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    ProfilePictureUrl = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    DateCreated = table.Column<DateTime>(type: "datetime2", nullable: false),
                     UserName = table.Column<string>(type: "nvarchar(256)", maxLength: 256, nullable: true),
                     NormalizedUserName = table.Column<string>(type: "nvarchar(256)", maxLength: 256, nullable: true),
                     Email = table.Column<string>(type: "nvarchar(256)", maxLength: 256, nullable: true),
@@ -58,13 +56,30 @@ namespace AuctionProject.Migrations
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    Name = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    BrandName = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     CreatedTime = table.Column<DateTime>(type: "datetime2", nullable: false),
                     SoftDelete = table.Column<bool>(type: "bit", nullable: false)
                 },
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Brands", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "Category",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    CategoryID = table.Column<int>(type: "int", nullable: false),
+                    CategoryName = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Description = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    CreatedTime = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    SoftDelete = table.Column<bool>(type: "bit", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Category", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
@@ -189,43 +204,13 @@ namespace AuctionProject.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "Orders",
-                columns: table => new
-                {
-                    Id = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    OrderDate = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    TotalAmount = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
-                    ShippingAddress = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    OrderStatus = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    PaymentStatus = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    PaymentMethod = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    ShippingMethod = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    EstimatedDeliveryDate = table.Column<DateTime>(type: "datetime2", nullable: true),
-                    OrderCompleted = table.Column<DateTime>(type: "datetime2", nullable: true),
-                    AppUserId = table.Column<string>(type: "nvarchar(450)", nullable: false),
-                    CreatedTime = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    SoftDelete = table.Column<bool>(type: "bit", nullable: false)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_Orders", x => x.Id);
-                    table.ForeignKey(
-                        name: "FK_Orders_AspNetUsers_AppUserId",
-                        column: x => x.AppUserId,
-                        principalTable: "AspNetUsers",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
-                });
-
-            migrationBuilder.CreateTable(
                 name: "Models",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    Name = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    BrandId = table.Column<int>(type: "int", nullable: false),
+                    ModelName = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    BrandID = table.Column<int>(type: "int", nullable: false),
                     CreatedTime = table.Column<DateTime>(type: "datetime2", nullable: false),
                     SoftDelete = table.Column<bool>(type: "bit", nullable: false)
                 },
@@ -233,8 +218,8 @@ namespace AuctionProject.Migrations
                 {
                     table.PrimaryKey("PK_Models", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_Models_Brands_BrandId",
-                        column: x => x.BrandId,
+                        name: "FK_Models_Brands_BrandID",
+                        column: x => x.BrandID,
                         principalTable: "Brands",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
@@ -246,15 +231,14 @@ namespace AuctionProject.Migrations
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
+                    SellerID = table.Column<string>(type: "nvarchar(450)", nullable: false),
+                    ModelID = table.Column<int>(type: "int", nullable: false),
                     Year = table.Column<int>(type: "int", nullable: false),
-                    Mileage = table.Column<int>(type: "int", nullable: false),
                     Condition = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    StartingBid = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
                     Description = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    ImageURL = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    ReservePrice = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
-                    ModelId = table.Column<int>(type: "int", nullable: false),
-                    ColorId = table.Column<int>(type: "int", nullable: false),
+                    BasePrice = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
+                    DateAdded = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    ColorID = table.Column<int>(type: "int", nullable: false),
                     CreatedTime = table.Column<DateTime>(type: "datetime2", nullable: false),
                     SoftDelete = table.Column<bool>(type: "bit", nullable: false)
                 },
@@ -262,14 +246,20 @@ namespace AuctionProject.Migrations
                 {
                     table.PrimaryKey("PK_Cars", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_Cars_Colors_ColorId",
-                        column: x => x.ColorId,
+                        name: "FK_Cars_AspNetUsers_SellerID",
+                        column: x => x.SellerID,
+                        principalTable: "AspNetUsers",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
+                    table.ForeignKey(
+                        name: "FK_Cars_Colors_ColorID",
+                        column: x => x.ColorID,
                         principalTable: "Colors",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
-                        name: "FK_Cars_Models_ModelId",
-                        column: x => x.ModelId,
+                        name: "FK_Cars_Models_ModelID",
+                        column: x => x.ModelID,
                         principalTable: "Models",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
@@ -281,11 +271,13 @@ namespace AuctionProject.Migrations
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    StartDateTime = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    EndDateTime = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    StartingPrice = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
+                    CarID = table.Column<int>(type: "int", nullable: false),
+                    StartTime = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    EndTime = table.Column<DateTime>(type: "datetime2", nullable: false),
                     Status = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    CarId = table.Column<int>(type: "int", nullable: false),
+                    CurrentHighestBid = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
+                    WinnerID = table.Column<string>(type: "nvarchar(450)", nullable: false),
+                    StripePaymentId = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     CreatedTime = table.Column<DateTime>(type: "datetime2", nullable: false),
                     SoftDelete = table.Column<bool>(type: "bit", nullable: false)
                 },
@@ -293,8 +285,66 @@ namespace AuctionProject.Migrations
                 {
                     table.PrimaryKey("PK_Auctions", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_Auctions_Cars_CarId",
-                        column: x => x.CarId,
+                        name: "FK_Auctions_AspNetUsers_WinnerID",
+                        column: x => x.WinnerID,
+                        principalTable: "AspNetUsers",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Restrict);
+                    table.ForeignKey(
+                        name: "FK_Auctions_Cars_CarID",
+                        column: x => x.CarID,
+                        principalTable: "Cars",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Restrict);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "CarCategories",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    CarCategoryID = table.Column<int>(type: "int", nullable: false),
+                    CarID = table.Column<int>(type: "int", nullable: false),
+                    CategoryID = table.Column<int>(type: "int", nullable: false),
+                    CreatedTime = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    SoftDelete = table.Column<bool>(type: "bit", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_CarCategories", x => x.Id);
+                    table.ForeignKey(
+                        name: "FK_CarCategories_Cars_CarID",
+                        column: x => x.CarID,
+                        principalTable: "Cars",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
+                    table.ForeignKey(
+                        name: "FK_CarCategories_Category_CategoryID",
+                        column: x => x.CategoryID,
+                        principalTable: "Category",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "CarImages",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    CarID = table.Column<int>(type: "int", nullable: false),
+                    ImageUrl = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Description = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    CreatedTime = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    SoftDelete = table.Column<bool>(type: "bit", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_CarImages", x => x.Id);
+                    table.ForeignKey(
+                        name: "FK_CarImages_Cars_CarID",
+                        column: x => x.CarID,
                         principalTable: "Cars",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
@@ -306,10 +356,10 @@ namespace AuctionProject.Migrations
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    AuctionId = table.Column<int>(type: "int", nullable: false),
+                    AuctionID = table.Column<int>(type: "int", nullable: false),
+                    BidderID = table.Column<string>(type: "nvarchar(450)", nullable: false),
                     BidAmount = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
                     BidTime = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    AppUserId = table.Column<string>(type: "nvarchar(450)", nullable: false),
                     CreatedTime = table.Column<DateTime>(type: "datetime2", nullable: false),
                     SoftDelete = table.Column<bool>(type: "bit", nullable: false)
                 },
@@ -317,17 +367,48 @@ namespace AuctionProject.Migrations
                 {
                     table.PrimaryKey("PK_Bids", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_Bids_AspNetUsers_AppUserId",
-                        column: x => x.AppUserId,
+                        name: "FK_Bids_AspNetUsers_BidderID",
+                        column: x => x.BidderID,
+                        principalTable: "AspNetUsers",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Restrict);
+                    table.ForeignKey(
+                        name: "FK_Bids_Auctions_AuctionID",
+                        column: x => x.AuctionID,
+                        principalTable: "Auctions",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Restrict);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "Orders",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    AuctionID = table.Column<int>(type: "int", nullable: false),
+                    BuyerID = table.Column<string>(type: "nvarchar(450)", nullable: false),
+                    TotalAmount = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
+                    OrderDate = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    PaymentStatus = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    CreatedTime = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    SoftDelete = table.Column<bool>(type: "bit", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Orders", x => x.Id);
+                    table.ForeignKey(
+                        name: "FK_Orders_AspNetUsers_BuyerID",
+                        column: x => x.BuyerID,
                         principalTable: "AspNetUsers",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
-                        name: "FK_Bids_Auctions_AuctionId",
-                        column: x => x.AuctionId,
+                        name: "FK_Orders_Auctions_AuctionID",
+                        column: x => x.AuctionID,
                         principalTable: "Auctions",
                         principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
+                        onDelete: ReferentialAction.Restrict);
                 });
 
             migrationBuilder.CreateIndex(
@@ -370,39 +451,71 @@ namespace AuctionProject.Migrations
                 filter: "[NormalizedUserName] IS NOT NULL");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Auctions_CarId",
+                name: "IX_Auctions_CarID",
                 table: "Auctions",
-                column: "CarId");
+                column: "CarID",
+                unique: true);
 
             migrationBuilder.CreateIndex(
-                name: "IX_Bids_AppUserId",
+                name: "IX_Auctions_WinnerID",
+                table: "Auctions",
+                column: "WinnerID");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Bids_AuctionID",
                 table: "Bids",
-                column: "AppUserId");
+                column: "AuctionID");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Bids_AuctionId",
+                name: "IX_Bids_BidderID",
                 table: "Bids",
-                column: "AuctionId");
+                column: "BidderID");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Cars_ColorId",
+                name: "IX_CarCategories_CarID",
+                table: "CarCategories",
+                column: "CarID");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_CarCategories_CategoryID",
+                table: "CarCategories",
+                column: "CategoryID");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_CarImages_CarID",
+                table: "CarImages",
+                column: "CarID");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Cars_ColorID",
                 table: "Cars",
-                column: "ColorId");
+                column: "ColorID");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Cars_ModelId",
+                name: "IX_Cars_ModelID",
                 table: "Cars",
-                column: "ModelId");
+                column: "ModelID");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Models_BrandId",
+                name: "IX_Cars_SellerID",
+                table: "Cars",
+                column: "SellerID");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Models_BrandID",
                 table: "Models",
-                column: "BrandId");
+                column: "BrandID");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Orders_AppUserId",
+                name: "IX_Orders_AuctionID",
                 table: "Orders",
-                column: "AppUserId");
+                column: "AuctionID",
+                unique: true);
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Orders_BuyerID",
+                table: "Orders",
+                column: "BuyerID");
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)
@@ -426,19 +539,28 @@ namespace AuctionProject.Migrations
                 name: "Bids");
 
             migrationBuilder.DropTable(
+                name: "CarCategories");
+
+            migrationBuilder.DropTable(
+                name: "CarImages");
+
+            migrationBuilder.DropTable(
                 name: "Orders");
 
             migrationBuilder.DropTable(
                 name: "AspNetRoles");
 
             migrationBuilder.DropTable(
+                name: "Category");
+
+            migrationBuilder.DropTable(
                 name: "Auctions");
 
             migrationBuilder.DropTable(
-                name: "AspNetUsers");
+                name: "Cars");
 
             migrationBuilder.DropTable(
-                name: "Cars");
+                name: "AspNetUsers");
 
             migrationBuilder.DropTable(
                 name: "Colors");
