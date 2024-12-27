@@ -21,6 +21,10 @@ namespace AuctionProject.DAL
         public DbSet<Color> Colors { get; set; }
         public DbSet<Model> Models { get; set; }
         public DbSet<Order> Orders { get; set; }
+        public DbSet<Slider> Sliders { get; set; }
+        public DbSet<SliderInfo> SliderInfos { get; set; }
+
+
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

@@ -1,4 +1,4 @@
-﻿
+﻿@model HomeVM
 
   <div class="home2-scroll-down-and-banner">
     <div class="scroll-down-area">
@@ -11,46 +11,21 @@
     <div class="home2-banner-section">
       <div class="swiper home2-banner-slider">
         <div class="swiper-wrapper">
-          <div class="swiper-slide">
+          
+        
+         @foreach (var item in Model.Sliders)
+                {
+                     <div class="swiper-slide">
             <div class="banner-bg" style="
                   background-image: linear-gradient(
                       180deg,
                       rgba(11, 12, 12, 0.45) 0%,
                       rgba(11, 12, 12, 0.45) 100%
                     ),
-                    url(../assets/img/home2/home2-banner-img1.jpg);
+                    url(../../wwwroot/assets/img/@item.Image)
                 "></div>
           </div>
-          <div class="swiper-slide">
-            <div class="banner-bg" style="
-                  background-image: linear-gradient(
-                      180deg,
-                      rgba(11, 12, 12, 0.45) 0%,
-                      rgba(11, 12, 12, 0.45) 100%
-                    ),
-                    url(../assets/img/home2/home2-banner-img2.jpg);
-                "></div>
-          </div>
-          <div class="swiper-slide">
-            <div class="banner-bg" style="
-                  background-image: linear-gradient(
-                      180deg,
-                      rgba(11, 12, 12, 0.45) 0%,
-                      rgba(11, 12, 12, 0.45) 100%
-                    ),
-                    url(../assets/img/home2/home2-banner-img3.jpg);
-                "></div>
-          </div>
-          <div class="swiper-slide">
-            <div class="banner-bg" style="
-                  background-image: linear-gradient(
-                      180deg,
-                      rgba(11, 12, 12, 0.45) 0%,
-                      rgba(11, 12, 12, 0.45) 100%
-                    ),
-                    url(../assets/img/home2/home2-banner-img4.jpg);
-                "></div>
-          </div>
+                }
         </div>
       </div>
       <div class="container-fluid">
