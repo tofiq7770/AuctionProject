@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AuctionProject.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20241215215116_sliderTables")]
-    partial class sliderTables
+    [Migration("20241227205439_initail")]
+    partial class initail
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
