@@ -1,11 +1,15 @@
-﻿namespace AuctionProject.Service
+﻿using AuctionProject.DAL;
+using AuctionProject.Service.Interface;
+using Microsoft.EntityFrameworkCore;
+
+namespace AuctionProject.Service
 {
     public class GenericService<T> : IGenericService<T> where T : class
     {
-        private readonly DbContext _context;
+        private readonly AppDbContext _context;
         private readonly DbSet<T> _dbSet;
 
-        public GenericService(DbContext context)
+        public GenericService(AppDbContext context)
         {
             _context = context;
             _dbSet = _context.Set<T>();

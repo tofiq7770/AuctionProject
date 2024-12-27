@@ -1,0 +1,18 @@
+﻿@using AuctionProject.Areas.Admin.ViewModelsAdmin.Brands
+@using AuctionProject.Models.Entities
+
+@model Brand 
+
+
+<div class="col-md-6 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Detail about Brand </h4>
+          
+               <h1>Name: @Model.BrandName</h1>
+               <h1>Create Date: @Model.CreatedTime</h1> 
+                <a class="btn btn-light" asp-area="Admin" asp-controller="Brands" asp-action="Index">Back</a>
+ 
+        </div>
+    </div>
+</div>

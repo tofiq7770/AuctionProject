@@ -1,4 +1,5 @@
 using AuctionProject.DAL;
+using AuctionProject.Services;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -13,6 +14,7 @@ opt.UseSqlServer(builder.Configuration.GetConnectionString("Default"))
 );
 
 
+builder.Services.AddScoped<IBrandService, BrandService>();
 
 var app = builder.Build();
 
