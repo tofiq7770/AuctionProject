@@ -579,4 +579,8 @@
     <None Include="wwwroot\assets\js\wow.min.js" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Areas\Admin\ViewModelsAdmin\Home\" />
+  </ItemGroup>
+
 </Project>

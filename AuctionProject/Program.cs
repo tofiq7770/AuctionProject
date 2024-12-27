@@ -1,4 +1,6 @@
 using AuctionProject.DAL;
+using AuctionProject.Service.Interface;
+using AuctionProject.Service;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,7 +14,8 @@ builder.Services.AddDbContext<AppDbContext>(opt =>
 opt.UseSqlServer(builder.Configuration.GetConnectionString("Default"))
 );
 
-
+builder.Services.AddScoped(typeof(IGenericService<>), typeof(GenericService<>));
+builder.Services.AddScoped<ISliderService, SliderService>();
 
 var app = builder.Build();
 
